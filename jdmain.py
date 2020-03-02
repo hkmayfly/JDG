@@ -5,6 +5,7 @@ from email.mime.text import MIMEText
 from email.header import Header
 # from splinter.browser import Browser
 from JDBuy import *
+from jdlogger import logger
 import sys
 
 Info = ''
