@@ -1,5 +1,5 @@
 # 介绍
-以前学过爬虫，看到师傅们制作京东口罩监控抢购，自己模仿实现了。抢购部分用的师傅们的。
+以前学过爬虫，看到师傅们制作京东口罩监控抢购，自己模仿实现了。抢购部分用的师傅们的，稍微简化了一下。
 [https://github.com/Rlacat/jd-automask](https://github.com/Rlacat/jd-automask)
 <br/>
 [https://github.com/cycz/jdBuyMask](https://github.com/cycz/jdBuyMask)
