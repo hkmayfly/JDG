@@ -8,3 +8,8 @@
 - 实时监控商品
 - 邮件，微信通知
 - 抢购商品（实测加入购物车到购买1s~2s）
+
+# 使用教程
+[https://www.cnblogs.com/Mayfly-nymph/p/12333524.html](https://www.cnblogs.com/Mayfly-nymph/p/12333524.html)
+
+有任何问题，可以在GitHub或者博客上联系我。
